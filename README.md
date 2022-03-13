@@ -29,4 +29,4 @@ cd <my-project>
 The exercises are mainly guided from [Data Analysis Using Python course](https://www.coursera.org/learn/data-analysis-python) by [Penn, Engineering, University of Pennsylvania](https://www.seas.upenn.edu/) on Coursera and Project on [Datacamp](https://www.datacamp.com/) platform.
 
 ## :page_facing_up: License
-[MIT License]()
+[MIT License](./LICENSE)
